@@ -1,0 +1,1 @@
+The root user in linux is a special user with full access to the system
