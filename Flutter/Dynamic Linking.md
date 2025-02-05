@@ -1,0 +1,1 @@
+when a native code library is loaded when a flutter app starts 

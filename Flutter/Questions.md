@@ -1,0 +1,12 @@
+- [ ] Tell me about FFI, why is it used?
+- [ ] Have you made plugins/packages? Describe your approach and experience while doing it.
+- [ ] What is the difference between Isar DB and SQflite. Describe both / Guide me through the process of implementing local db in flutter app.
+- [ ] Describe build flavours.
+- [ ] What are the best ways to optimise your app?
+- [ ] Tell me about adding flutter app to an existing android app.
+- [ ] Describe tree shaking.
+- [ ] What is a widget tree? Are there any other trees involved other than the widget tree. And explain them in short.
+- [ ] Talk about listviews in flutter, what is the difference between widgets and slivers.
+- [ ] Explain Intrinsic widgets in flutter.
+- [ ] Canvas
+- [ ] RenderObjects

@@ -2,4 +2,4 @@ A container is an instance of an image (container image) which actually executes
 
 It includes every dependency needed to run a program or software independently
 
-In OOPS terms container is an instance of the [image]() class.
+In OOPS terms container is an instance of the [[Image|image]] class.

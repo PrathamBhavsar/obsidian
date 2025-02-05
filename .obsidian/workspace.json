@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3dcebbe7b2f5f659",
+        "id": "eb2b8b38b4af2e47",
         "type": "tabs",
         "children": [
           {
-            "id": "aac25b7ef574a3de",
+            "id": "9bc8129279ce6329",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Process Monitoring.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Process Monitoring"
-            }
-          },
-          {
-            "id": "124074755943b516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Container.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Container"
-            }
-          },
-          {
-            "id": "48860227c6dd1950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Image.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Image"
-            }
-          },
-          {
-            "id": "c961dea00c4ad6e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Orchestrators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orchestrators"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -212,19 +164,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c961dea00c4ad6e6",
+  "active": "9bc8129279ce6329",
   "lastOpenFiles": [
-    "Docker/Hypervisor.md",
-    "Docker/Orchestrators.md",
+    "Flutter/Executable Image.md",
+    "Flutter/Foreign Function Interface.md",
+    "Flutter/Questions.md",
+    "Flutter/Static Linking.md",
+    "Flutter/Dynamic Linking.md",
+    "Linux/Root User.md",
+    "().md",
     "Docker/Image.md",
     "Docker/Container.md",
+    "Docker/Hypervisor.md",
+    "Docker/Open Container Initiative (OCI).md",
+    "Docker/Orchestrators.md",
+    "Linux/commands.md",
+    "dynamically.md",
+    "this is just a test.md",
+    "Flutter",
     "Process Monitoring.md",
     "Pasted image 20250202223528.png",
-    "Docker/Open Container Initiative (OCI).md",
     "Docker",
-    "Linux/commands.md",
-    "Linux/Root User.md",
-    "this is just a test.md",
     "Linux"
   ]
 }
