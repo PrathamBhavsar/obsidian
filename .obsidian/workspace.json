@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bc8129279ce6329",
+            "id": "03a35fc0ed7e5259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Questions/Mid.md",
+                "file": "flutter/questions/mid/navigator 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mid"
-            }
-          },
-          {
-            "id": "9a1aaaf97a1c5355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Keys.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keys"
-            }
-          },
-          {
-            "id": "0b8e877b9c7400eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Final vs Const vs Static.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Final vs Const vs Static"
+              "title": "navigator 2.0"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.51103591918945
   },
   "right": {
     "id": "370c7dd0e564ca31",
@@ -198,34 +169,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a1aaaf97a1c5355",
+  "active": "f4dd0c14597169d3",
   "lastOpenFiles": [
-    "Flutter/Keys.md",
-    "Flutter/Questions/Mid.md",
-    "Flutter/Questions/Junior.md",
-    "Flutter/Questions/Advance.md",
-    "Flutter/Questions",
-    "Flutter/Final vs Const vs Static.md",
-    "Flutter/Life Cycle Methods.md",
-    "Flutter/Process Monitoring.md",
-    "Flutter/Static Linking.md",
+    "Docker/Untitled.md",
+    "flutter/questions/mid/navigator 2.0.md",
+    "flutter/questions/advance/advance.md",
+    "flutter/dynamic linking.md",
+    "flutter/questions/advance",
+    "flutter/questions/mid/extensions.md",
+    "docker/container.md",
+    "flutter/questions/mid/mid questions.md",
+    "flutter/questions/mixin.md",
+    "flutter/questions/mid/isMounted.md",
+    "flutter/questions/junior/junior questions.md",
+    "flutter/questions/mid/keys.md",
+    "Flutter/Questions/mid/answers",
+    "flutter/executable image.md",
+    "flutter/final vs const vs static.md",
+    "flutter/questions/mid",
+    "flutter/questions/junior",
+    "Flutter/Questions/Untitled.canvas",
     "Untitled.md",
-    "Flutter/Executable Image.md",
-    "Flutter/Foreign Function Interface.md",
-    "Flutter/Dynamic Linking.md",
-    "Linux/Root User.md",
+    "flutter/questions",
+    "flutter/life cycle methods.md",
+    "flutter/process monitoring.md",
+    "flutter/static linking.md",
+    "flutter/foreign function interface.md",
+    "linux/root user.md",
     "().md",
-    "Docker/Image.md",
-    "Docker/Container.md",
-    "Docker/Hypervisor.md",
-    "Docker/Open Container Initiative (OCI).md",
-    "Docker/Orchestrators.md",
-    "Linux/commands.md",
+    "docker/image.md",
+    "docker/hypervisor.md",
+    "docker/open container initiative (OCI).md",
+    "docker/orchestrators.md",
+    "linux/commands.md",
     "dynamically.md",
-    "this is just a test.md",
-    "Flutter",
+    "flutter",
     "Pasted image 20250202223528.png",
-    "Docker",
-    "Linux"
+    "docker",
+    "linux"
   ]
 }

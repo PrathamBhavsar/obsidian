@@ -1,1 +1,1 @@
-when a native code library is embedded into the app's [[Executable Image|executable image]] 
+when a native code library is embedded into the app's [[executable image|executable image]] 

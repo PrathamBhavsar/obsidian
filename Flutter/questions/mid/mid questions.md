@@ -1,13 +1,13 @@
-- [[Flutter/Keys|What are keys?  ]]
+- [[keys|What are keys?  ]]
     What keys do you know? When do you use them?  
     Bonus points for mentioning how the framework utilizes them.
 
-- What is the extension method? Do you use them? Why they are great?
+- [[extensions|What is the extension method? Do you use them? Why they are great?]]
 
-- What is isMounted property, why is it important, when to use it?  
+- [[isMounted|What is isMounted property, why is it important, when to use it?]]
     In an async method before using set State to see if the widget is still in the tree, otherwise, you get the exception.
 
-- What is a mixin? When to use it? (When you need code sharing without using inheritance)
+- [[mixin|What is a mixin? When to use it?]] (When you need code sharing without using inheritance)
 
 - State restoration. What is it? Have you used it? Custom objects? Any cases supported out of the box?
 
@@ -30,7 +30,7 @@
 
 - Immutability How to provide it? Why is it important?
 
-- What is Navigator 2.0?  
+- [[navigator 2.0|What is Navigator 2.0?]]
     How does it differ from navigator 1.0?  
     Why was it introduced?  
     Did you use it, how did you implement it?

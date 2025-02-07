@@ -3,10 +3,10 @@
     **Asked to verify basic knowledge, a good ice breaker.**  
     Follow up if not already told, why not use stateful everywhere?
 
-[[Life Cycle Methods|- What are stateful widget lifecycle methods?  ]]
+[[life cycle methods|- What are stateful widget lifecycle methods?  ]]
     **Either a separate question or follow up to the first one.** |Junior does not need to know them all out of head, neither does mid tbh but could know more than initState and dispose.
 
-[[Final vs Const vs Static|- Difference between final, const and static.]]
+[[final vs const vs static|- Difference between final, const and static.]]
 - How do you validate a form in Flutter?
 - State management.    
     - Why do we need it? (testing, business logic separation, not having to pass everything down the tree and use tons of callbacks)  
