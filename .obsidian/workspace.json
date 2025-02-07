@@ -11,13 +11,46 @@
             "id": "9bc8129279ce6329",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Questions/Mid.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mid"
+            }
+          },
+          {
+            "id": "9a1aaaf97a1c5355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keys"
+            }
+          },
+          {
+            "id": "0b8e877b9c7400eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Final vs Const vs Static.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final vs Const vs Static"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,12 +198,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bc8129279ce6329",
+  "active": "9a1aaaf97a1c5355",
   "lastOpenFiles": [
+    "Flutter/Keys.md",
+    "Flutter/Questions/Mid.md",
+    "Flutter/Questions/Junior.md",
+    "Flutter/Questions/Advance.md",
+    "Flutter/Questions",
+    "Flutter/Final vs Const vs Static.md",
+    "Flutter/Life Cycle Methods.md",
+    "Flutter/Process Monitoring.md",
+    "Flutter/Static Linking.md",
+    "Untitled.md",
     "Flutter/Executable Image.md",
     "Flutter/Foreign Function Interface.md",
-    "Flutter/Questions.md",
-    "Flutter/Static Linking.md",
     "Flutter/Dynamic Linking.md",
     "Linux/Root User.md",
     "().md",
@@ -182,7 +224,6 @@
     "dynamically.md",
     "this is just a test.md",
     "Flutter",
-    "Process Monitoring.md",
     "Pasted image 20250202223528.png",
     "Docker",
     "Linux"
