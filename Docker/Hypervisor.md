@@ -21,4 +21,4 @@ They run on an application inside the host machine
 
 More computationally intensive
 
-![[Pasted image 20250202223528.png]]
+![[virtual machine architechture.png]]

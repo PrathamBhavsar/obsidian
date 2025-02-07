@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eb2b8b38b4af2e47",
+        "id": "f93df0faf9740bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "03a35fc0ed7e5259",
+            "id": "2d7271cafbec0cf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "flutter/questions/mid/navigator 2.0.md",
-                "mode": "source",
-                "source": false
+                "file": "virtual machine architechture.png"
               },
-              "icon": "lucide-file",
-              "title": "navigator 2.0"
+              "icon": "lucide-image",
+              "title": "virtual machine architechture"
             }
           }
         ]
@@ -171,8 +169,9 @@
   },
   "active": "f4dd0c14597169d3",
   "lastOpenFiles": [
-    "Docker/Untitled.md",
+    "virtual machine architechture.png",
     "flutter/questions/mid/navigator 2.0.md",
+    "Docker/Untitled.md",
     "flutter/questions/advance/advance.md",
     "flutter/dynamic linking.md",
     "flutter/questions/advance",
@@ -202,9 +201,7 @@
     "docker/open container initiative (OCI).md",
     "docker/orchestrators.md",
     "linux/commands.md",
-    "dynamically.md",
     "flutter",
-    "Pasted image 20250202223528.png",
     "docker",
     "linux"
   ]
